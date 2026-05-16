@@ -4,9 +4,10 @@ import React, { useState, useEffect } from 'react';
 import './Hero.css';
 
 const heroImages = [
-  '/gold (1).jpg',
-  '/gold (2).jpg',
-  '/gold (3).jpg'
+  '/bg.jpg',
+  '/bg-2.jpg',
+  '/bg-3.jpg',
+  '/bg-4.jpg'
 ];
 
 const Hero = () => {
